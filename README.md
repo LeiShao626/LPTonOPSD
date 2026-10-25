@@ -1,1 +1,1 @@
-# Latent Promising Token on On-Policy Self Distillation
+# Latent Promising Token for strengthening On-Policy Self Distillation
