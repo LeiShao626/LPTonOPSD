@@ -1,0 +1,17 @@
+# Model Loading
+transformers==5.13.0
+accelerate==1.14.0
+flash-linear-attention==0.5.1
+
+# Data and Model Files
+huggingface_hub>=0.36.0
+safetensors
+datasets==4.4.1
+numpy
+tqdm
+
+# LoRA
+peft
+
+# Jupyter NoteBook
+jupyterlab
